@@ -1,0 +1,7 @@
+/etc/fstab
+/etc/nginx/nginx.conf
+/root/.aria2/aria2.conf
+/etc/vsftpd.conf
+/root/.aria2
+/root/.muttrc
+/root/.msmtprc
